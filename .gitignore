@@ -46,3 +46,9 @@ models/
 # Temporary files
 tmp/
 temp/
+
+# Training outputs
+checkpoints/
+outputs/
+models/
+qwen_sft_output/

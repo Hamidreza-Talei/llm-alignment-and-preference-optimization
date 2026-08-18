@@ -52,3 +52,9 @@ checkpoints/
 outputs/
 models/
 qwen_sft_output/
+qwen_sft_checkpoint/
+qwen_reward_checkpoint/
+qwen_reward_checkpoint_tmp/
+qwen_dpo_checkpoint/
+qwen_ppo_checkpoint/
+qwen_orpo_checkpoint/
